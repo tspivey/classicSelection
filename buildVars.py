@@ -19,7 +19,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description" : _("""Enables previous selection behaviour with nvda+f9 and nvda+f10."""),
 	# version
-	"addon_version" : "1.0",
+	"addon_version" : "1.1",
 	# Author(s)
 	"addon_author" : u"Tyler Spivey <tspivey@pcdesk.net>",
 	# URL for the add-on documentation support
